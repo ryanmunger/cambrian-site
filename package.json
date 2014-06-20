@@ -1,0 +1,23 @@
+{
+  "name": "cambrian-site",
+  "version": "0.0.0",
+  "description": "Cambrian site",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryanmunger/cambrian-site.git"
+  },
+  "author": "Ryan Munger <ryanmunger@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ryanmunger/cambrian-site/issues"
+  },
+  "homepage": "https://github.com/ryanmunger/cambrian-site",
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.4.3"
+  }
+}
