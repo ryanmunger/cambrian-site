@@ -46,7 +46,7 @@ img {
 }
 
 .one-third {
-  width: 66.6666667%;
+  width: 68.6666667%;
 }
 
 .center-block {
@@ -147,6 +147,9 @@ img {
     display: block;
     width: 50%;
     margin: 0 auto 50px auto;
+  }
+  .mini-portfolio-items .label {
+    margin-top: 15px;
   }
   .two-cols-mobile {
     margin-bottom: 30px;
