@@ -1,2 +1,2 @@
 heroku:
-	wintersmith build
+	wintersmith build <path>
