@@ -1,2 +1,2 @@
-all:
+heroku:
 	wintersmith build
