@@ -1,2 +1,2 @@
 all:
-	wintersmith build <path>
+	wintersmith build site
