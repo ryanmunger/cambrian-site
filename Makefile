@@ -1,2 +1,2 @@
-heroku:
-	wintersmith build site
+all:
+	wintersmith build
