@@ -1,2 +1,2 @@
 all:
-	wintersmith build
+	wintersmith build <path>
