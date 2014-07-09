@@ -1,2 +1,0 @@
-heroku:
-	wintersmith build build

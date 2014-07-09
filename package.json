@@ -2,7 +2,6 @@
   "name": "cambrian-site",
   "version": "0.0.0",
   "description": "Cambrian Site",
-  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,8 +18,6 @@
   "dependencies": {
     "moment": "2.3.x",
     "underscore": "1.4.x",
-    "typogr": "0.5.x",
-    "wintersmith": "1.0.x",
-    "connect": "2.3.x"
+    "typogr": "0.5.x"
   }
 }
