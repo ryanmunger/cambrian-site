@@ -123,6 +123,31 @@ img {
   display: inline;
 }
 
+.archive ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+footer ul {
+  list-style-type: none;
+  margin: 20px 0;
+  padding: 0;
+}
+
+footer ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+footer ul li a {
+  text-decoration: none;
+  color: #f57e24;
+}
+
+footer ul li a:hover {
+  text-decoration: underline;
+}
 @media all and (max-width: 680px) {
   .two-cols-mobile {
     display: block;
